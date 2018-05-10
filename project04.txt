@@ -1,0 +1,36 @@
+COMP 375 - Project 4 - Fall 2016
+
+Update this file so that it contains the following info.
+Submissions where this file has not been completed will NOT be accepted (i.e.
+will receive a grade of 0).
+
+1. Partner 1's FULL Name:
+   Partner 1's USD Email Address:
+   Partner 2's FULL Name:
+   Partner 2's USD Email Address:
+
+2. A typed copy of USD's academic integrity pledge, followed by each partners'
+   typed initials (as a way of "signing the pledge.").
+
+   The academic integrity pledge can be found on page 3 of
+   the document found here: https://www.sandiego.edu/conduct/documents/HonorCode.pdf
+   To be clear, it is the text that starts, "I pledge to demonstrate...".
+
+3. The estimated number of hours spent working on the project.
+   Break this down into three categories:
+		- Time spent partner 1 spent working alone
+		- Time spent partner 2 spent working alone
+		- Time spent working together
+
+4. A list of missing features and/or known bugs.
+
+5. The number of project bucks you are spending on this project. 
+   Remember that one project buck buys you a 24-hour deadline extension.
+   However, if you are working with a partner, you must each spend a buck to
+   get a 24-hour extension (i.e. 2 total bucks spent).
+   You may each spend 0.5 bucks to get a 12-hour extension (i.e. 1 total buck
+   between the two of you).
+   No other fractional amounts of bucks may be used.
+
+6. Any feedback you with to give me relating the project (e.g. Was it
+   interesting? How could it be improved?)
